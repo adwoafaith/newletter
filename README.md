@@ -17,13 +17,13 @@
 ### The challenge
 Users should be able to:
 
-  .Add their email and submit the form
-  .See a success message with their email after successfully submitting the form
-  .See form validation messages if:
-  .The field is left empty
-  .The email address is not formatted correctly
-  .View the optimal layout for the interface depending on their device's screen size
-  .See hover and focus states for all interactive elements on the page
+- Add their email and submit the form
+- See a success message with their email after successfully submitting the form
+- See form validation messages if:
+- The field is left empty
+- The email address is not formatted correctly
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
 
  Screenshot
 ![Solution Screenshot](./assets/images/newsletter.png)
@@ -34,22 +34,22 @@ Users should be able to:
 - Live Site URL: https://adwoafaith.github.io/newletter/
 
 ## My process
-Throughout the development process, I employed various tools and techniques to create a functional and visually appealing solution. Here's an overview of the key aspects:
+- Throughout the development process, I employed various tools and techniques to create a functional and visually appealing solution. Here's an overview of the key aspects:
 
-Built with
-Semantic HTML markup: I prioritized using semantic HTML elements to ensure the structure of the page is meaningful and accessible. This not only enhances the user experience but also benefits search engine optimization.
+- Built with
+- Semantic HTML markup: I prioritized using semantic HTML elements to ensure the structure of the page is meaningful and accessible. This not only enhances the user experience but also benefits search engine optimization.
 
-CSS custom properties: Leveraging CSS variables, I facilitated easier styling adjustments across the project. By defining variables for colors, typography, and other design elements, I enhanced maintainability and flexibility in styling.
+- CSS custom properties: Leveraging CSS variables, I facilitated easier styling adjustments across the project. By defining variables for colors, typography, and other design elements, I enhanced maintainability and flexibility in styling.
 
-Flexbox: Employing Flexbox, I efficiently managed the layout and alignment of elements, particularly in responsive design scenarios. This allowed for seamless adaptation to different screen sizes and device orientations.
+- Flexbox: Employing Flexbox, I efficiently managed the layout and alignment of elements, particularly in responsive design scenarios. This allowed for seamless adaptation to different screen sizes and device orientations.
 
-CSS Grid: To organize the layout of specific components, I utilized CSS Grid. This powerful layout system enabled precise control over the positioning and arrangement of elements within the design, enhancing visual consistency and coherence.
+- CSS Grid: To organize the layout of specific components, I utilized CSS Grid. This powerful layout system enabled precise control over the positioning and arrangement of elements within the design, enhancing visual consistency and coherence.
 
-Mobile-first workflow: Following a mobile-first approach, I designed and developed the project with primary consideration for mobile responsiveness. This approach ensures that the user experience remains optimal on smaller screens, with progressive enhancements for larger devices.
+- Mobile-first workflow: Following a mobile-first approach, I designed and developed the project with primary consideration for mobile responsiveness. This approach ensures that the user experience remains optimal on smaller screens, with progressive enhancements for larger devices.
 
-React: I incorporated the React library to facilitate the creation of interactive components and manage the application's state efficiently. React's component-based architecture allowed for modular development and simplified maintenance.
+- React: I incorporated the React library to facilitate the creation of interactive components and manage the application's state efficiently. React's component-based architecture allowed for modular development and simplified maintenance.
 
-By combining these technologies and methodologies, I was able to deliver a robust and well-structured solution that meets the project requirements and provides an optimal user experience across various devices and screen sizes.
+- By combining these technologies and methodologies, I was able to deliver a robust and well-structured solution that meets the project requirements and provides an optimal user experience across various devices and screen sizes.
 
 ### What I learnt
 
