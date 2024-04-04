@@ -17,13 +17,13 @@
 ### The challenge
 Users should be able to:
 
- 1.Add their email and submit the form
- 2.See a success message with their email after successfully submitting the form
- 3.See form validation messages if:
- *The field is left empty
- *The email address is not formatted correctly
- *View the optimal layout for the interface depending on their device's screen size
- *See hover and focus states for all interactive elements on the page
+  .Add their email and submit the form
+  .See a success message with their email after successfully submitting the form
+  .See form validation messages if:
+  .The field is left empty
+  .The email address is not formatted correctly
+  .View the optimal layout for the interface depending on their device's screen size
+  .See hover and focus states for all interactive elements on the page
 
  Screenshot
 ![Solution Screenshot](./assets/images/newsletter.png)
